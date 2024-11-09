@@ -467,8 +467,8 @@ input[type="radio"]:checked + label::before {
   }
 
   .phone {
-    width: 70%;
-    left: 15%;
+    width: 73%;
+    left: 13%;
     top: 6%;
     padding: 2%;
   }
